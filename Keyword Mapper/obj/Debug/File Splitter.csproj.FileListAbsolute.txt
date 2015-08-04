@@ -1,0 +1,9 @@
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\bin\Debug\File Splitter.exe.config
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\bin\Debug\File Splitter.exe
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\bin\Debug\File Splitter.pdb
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\File Splitter.csprojResolveAssemblyReference.cache
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\Keyword_Mapper.Form1.resources
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\File_Splitter.Properties.Resources.resources
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\File Splitter.csproj.GenerateResource.Cache
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\File Splitter.exe
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\File Splitter.pdb

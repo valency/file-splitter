@@ -1,0 +1,12 @@
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\bin\Debug\Keyword Mapper.exe.config
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\bin\Debug\Keyword Mapper.exe
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\bin\Debug\Keyword Mapper.pdb
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword Mapper.csprojResolveAssemblyReference.cache
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword_Mapper.Form1.resources
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword_Mapper.Properties.Resources.resources
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword Mapper.csproj.GenerateResource.Cache
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword Mapper.exe
+c:\users\valency\documents\visual studio 2012\Projects\Keyword Mapper\Keyword Mapper\obj\Debug\Keyword Mapper.pdb
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\bin\Debug\Keyword Mapper.exe.config
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\Keyword Mapper.exe
+C:\Users\Valency\Desktop\File Splitter\Keyword Mapper\obj\Debug\Keyword Mapper.pdb
